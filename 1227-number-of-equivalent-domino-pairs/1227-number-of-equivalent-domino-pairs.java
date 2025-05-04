@@ -10,10 +10,8 @@ class Solution {
             int b = Math.max(dominoes[i][0], dominoes[i][1]);
             int key = a * 10 + b; // Create a 2-digit key
 
-            // Add the number of pairs we can form with the current domino
             res += count[key];
 
-            // Increment the count of this normalized domino
             count[key]++;
         }
 
