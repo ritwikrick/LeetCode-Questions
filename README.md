@@ -12,10 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3637-count-number-of-balanced-permutations](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0050-powx-n) |
+| [3637-count-number-of-balanced-permutations](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Recursion
 |  |
 | ------- |
@@ -44,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## String
+|  |
+| ------- |
+| [3637-count-number-of-balanced-permutations](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3637-count-number-of-balanced-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [3637-count-number-of-balanced-permutations](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3637-count-number-of-balanced-permutations) |
 <!---LeetCode Topics End-->
