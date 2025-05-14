@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0050-powx-n) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Recursion
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Combinatorics
 |  |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -81,4 +85,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 <!---LeetCode Topics End-->
