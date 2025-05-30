@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0932-monotonic-array](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0932-monotonic-array) |
 | [1293-three-consecutive-odds](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1293-three-consecutive-odds) |
 | [2048-build-array-from-permutation](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2048-build-array-from-permutation) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
 | [3639-zero-array-transformation-i](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3647-zero-array-transformation-iii) |
 ## Bit Manipulation
