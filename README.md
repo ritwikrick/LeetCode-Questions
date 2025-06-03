@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0932-monotonic-array](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0932-monotonic-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0135-candy) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
