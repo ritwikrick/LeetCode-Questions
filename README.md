@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3194-find-words-containing-character) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3321-type-of-triangle) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3647-zero-array-transformation-iii) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0169-majority-element) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2215-finding-3-digit-even-numbers) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3647-zero-array-transformation-iii) |
