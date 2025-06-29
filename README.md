@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0945-snakes-and-ladders) |
 | [1293-three-consecutive-odds](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1293-three-consecutive-odds) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2048-build-array-from-permutation](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0169-majority-element) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0075-sort-colors) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Divide and Conquer
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Memoization
