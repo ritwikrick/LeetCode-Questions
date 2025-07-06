@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0945-snakes-and-ladders) |
 | [1293-three-consecutive-odds](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1293-three-consecutive-odds) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2048-build-array-from-permutation) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
