@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0443-string-compression) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0443-string-compression) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
