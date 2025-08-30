@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0386-lexicographical-numbers) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0945-snakes-and-ladders](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -391,4 +394,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0799-minimum-distance-between-bst-nodes) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0799-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
