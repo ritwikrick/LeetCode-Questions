@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0040-combination-sum-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0945-snakes-and-ladders](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0945-snakes-and-ladders) |
 | [3227-find-missing-and-repeated-values](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
