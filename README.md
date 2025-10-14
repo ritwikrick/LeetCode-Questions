@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
