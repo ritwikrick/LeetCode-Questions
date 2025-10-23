@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0908-middle-of-the-linked-list) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [2478-longest-nice-subarray](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2478-longest-nice-subarray) |
