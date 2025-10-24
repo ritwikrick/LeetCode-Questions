@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0031-next-permutation) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
