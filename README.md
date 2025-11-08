@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2478-longest-nice-subarray](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2478-longest-nice-subarray) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Graph
 |  |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0908-middle-of-the-linked-list) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Divide and Conquer
