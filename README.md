@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
 | [0386-lexicographical-numbers](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0386-lexicographical-numbers) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0547-number-of-provinces](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Queue
@@ -514,4 +516,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
