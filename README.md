@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2048-build-array-from-permutation) |
+| [2073-time-needed-to-buy-tickets](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2048-build-array-from-permutation) |
+| [2073-time-needed-to-buy-tickets](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
 | ------- |
