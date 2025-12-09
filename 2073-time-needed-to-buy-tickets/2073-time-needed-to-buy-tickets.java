@@ -4,19 +4,18 @@ class Solution {
         for(int i=0;i<tickets.length;i++){
             q.add(i);
         }
-        int time=0;
+        int c=0;
         while(!q.isEmpty()){
-            int person=q.remove();
-            tickets[person]--;
-            time++;
-
-            if(tickets[person]>0){
-                q.add(person);
+            int curr=q.remove();
+            tickets[curr]--;
+            c++;
+            if (tickets[curr] == 0 && curr == k) {
+                return c;
             }
-            if(person==k && tickets[person]==0){
-                return time;
+            if(tickets[curr]>0){
+                q.add(curr);
             }
         }
-        return time;
+        return c;
     }
 }
