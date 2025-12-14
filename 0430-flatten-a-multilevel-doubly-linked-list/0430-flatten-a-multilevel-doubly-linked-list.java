@@ -18,10 +18,10 @@ class Solution {
             }
             Node nextt=curr.next;
             curr.next=flatten(curr.child);
-            curr.next.prev=curr;
+            curr.next.prev=curr;//for reverse connection->
             curr.child=null;
 
-            while(curr.next!=null){
+            while(curr.next!=null){//to join last child pointer to nextt
                 curr=curr.next;
             }
             if(nextt!=null){
