@@ -12,7 +12,8 @@ class Solution {
         for(int i=0;i<minlen;i++){
             if(first[i]!=last[i]){
                 break;
-            }sb.append(first[i]);
+            }
+            sb.append(first[i]);
         }
         return sb.toString();
     }
