@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0322-coin-change) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -586,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
