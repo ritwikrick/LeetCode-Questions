@@ -22,10 +22,10 @@ class Solution {
             psum+=nums[i];
             if(map.containsKey(psum-k)){
                 c=c+map.get(psum-k);
-                map.put(psum-k,map.get(psum-k));
             }
             map.put(psum,map.getOrDefault(psum,0)+1);
         }
         return c;
+        
     }
 }
