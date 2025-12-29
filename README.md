@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
+| [0523-continuous-subarray-sum](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0050-powx-n) |
+| [0523-continuous-subarray-sum](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [3618-find-the-original-typed-string-ii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3618-find-the-original-typed-string-ii) |
