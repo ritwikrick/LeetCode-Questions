@@ -7,10 +7,10 @@ class Solution {
         int c = 0;
 
         for (int i = 0; i < nums.length; i++) {
-            sum += nums[i];
+             sum += nums[i];
+            int mod = sum % k;
 
-            // Proper modulo fix
-            int mod = (sum % k + k) % k;
+            if (mod < 0) mod += k;
 
             // Count existing occurrences of this remainder
             if (map.containsKey(mod)) {
