@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0135-candy) |
+| [0152-maximum-product-subarray](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0647-palindromic-substrings) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
