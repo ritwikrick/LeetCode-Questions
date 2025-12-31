@@ -1,33 +1,41 @@
 class Solution {
     public int maxSubarraySumCircular(int[] nums) {
-        int total = 0;
 
-        int currMax = 0;
-        int maxSum = nums[0];
+        int maxKadane = Integer.MIN_VALUE;
+        int sum = 0;
 
-        int currMin = 0;
-        int minSum = nums[0];
-
-        for (int num : nums) {
-            total += num;
-
-            // Kadane for maximum subarray
-            currMax = Math.max(num, currMax + num);
-            maxSum = Math.max(maxSum, currMax);
-
-            // Kadane for minimum subarray
-            currMin = Math.min(num, currMin + num);
-            minSum = Math.min(minSum, currMin);
+        // Normal Kadane (non-circular)
+        for (int i = 0; i < nums.length; i++) {
+            sum += nums[i];
+            maxKadane = Math.max(maxKadane, sum);
+            if (sum < 0) sum = 0;
         }
 
-        // Edge case: If all numbers are negative
-        // then maxSum is the maximum element, and
-        // total - minSum becomes 0 (invalid)
-        if (maxSum < 0) return maxSum;
+        // If all numbers are negative, maxKadane is the answer
+        // because circular sum would incorrectly become 0
+        boolean allNeg = true;
+        int total = 0;
+        for (int x : nums) {
+            total += x;
+            if (x > 0) allNeg = false;
+        }
+        if (allNeg) return maxKadane;  // same as normal Kadane for all-negative case
 
-        // Circular max = total - minimum subarray sum
-        int maxCircular = total - minSum;
 
-        return Math.max(maxSum, maxCircular);
+        // Now find MINIMUM subarray sum using inverted Kadane
+        int minKadane = Integer.MAX_VALUE;
+        sum = 0;
+
+        for (int i = 0; i < nums.length; i++) {
+            sum += nums[i];
+            minKadane = Math.min(minKadane, sum);
+            if (sum > 0) sum = 0;   // reset opposite of max-Kadane
+        }
+
+        // circular max = totalSum - minimumSubarraySum
+        int maxCircular = total - minKadane;
+
+        // final answer = max(normal, circular)
+        return Math.max(maxKadane, maxCircular);
     }
 }
