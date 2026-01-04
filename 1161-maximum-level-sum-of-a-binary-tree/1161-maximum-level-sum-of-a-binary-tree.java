@@ -1,32 +1,48 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
     public int maxLevelSum(TreeNode root) {
-        Queue<TreeNode> q = new LinkedList<>();
+        if (root == null) return 0;
+
+        int level=1;
+        Queue<TreeNode> q=new LinkedList<>();
         q.add(root);
-        
-        int level = 1;
-        int maxLevel = 1;
-        int maxSum = Integer.MIN_VALUE;
-
-        while (!q.isEmpty()) {
-            int size = q.size();
-            int currSum = 0;
-
-            for (int i = 0; i < size; i++) {
-                TreeNode node = q.remove();
-                currSum += node.val;
-
-                if (node.left != null) q.add(node.left);
-                if (node.right != null) q.add(node.right);
+        q.add(null);
+        int sum=0;
+        int anslevel=1;
+        int maxsum=Integer.MIN_VALUE;
+        while(!q.isEmpty()){
+            TreeNode curr=q.remove();
+            if(curr==null){
+                if(maxsum<sum){
+                    maxsum=sum;
+                    anslevel=level;
+                }
+                if(q.isEmpty()){
+                    break;
+                }
+                q.add(null);
+                level++;
+                sum=0; 
+            }else{
+                sum+=curr.val;
+                if(curr.left!=null) q.add(curr.left);
+                if(curr.right!=null) q.add(curr.right);
             }
-
-            if (currSum > maxSum) {
-                maxSum = currSum;
-                maxLevel = level;
-            }
-
-            level++;
         }
-
-        return maxLevel;
+        return anslevel;
     }
 }
