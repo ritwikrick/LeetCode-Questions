@@ -13,7 +13,7 @@ class Solution {
         // if (root.left == null && root.right == null) {
         //     return sum == targetSum;
         // }
-        if(sum==targetSum && root.left==null &&root.right==null){
+        if(sum==targetSum  && root.left==null && root.right==null){
             return true;
         }
 
