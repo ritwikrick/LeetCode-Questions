@@ -10,26 +10,48 @@ class Node {
 
 class Solution {
     public Node flatten(Node head) {
+        // Node curr=head;
+        // while(curr!=null){
+        //     if(curr.child==null){
+        //         curr=curr.next;
+        //         continue;
+        //     }
+        //     Node nextt=curr.next;
+        //     curr.next=flatten(curr.child);
+        //     curr.next.prev=curr;//for reverse connection->
+        //     curr.child=null;
+
+        //     while(curr.next!=null){//to join last child pointer to nextt
+        //         curr=curr.next;
+        //     }
+        //     if(nextt!=null){
+        //         curr.next=nextt;
+        //         nextt.prev=curr;
+        //     }
+        // }
+        // return head;
         Node curr=head;
         while(curr!=null){
             if(curr.child==null){
                 curr=curr.next;
                 continue;
             }
-            Node nextt=curr.next;
-            curr.next=flatten(curr.child);
-            curr.next.prev=curr;//for reverse connection->
+            Node future_next=curr.next;
+            curr.next= flatten(curr.child);
+            curr.next.prev=curr;
             curr.child=null;
 
-            while(curr.next!=null){//to join last child pointer to nextt
+            //traversing child nodes
+            while(curr.next!=null){
                 curr=curr.next;
             }
-            if(nextt!=null){
-                curr.next=nextt;
-                nextt.prev=curr;
+            //connecting future_node to last child node
+            if(future_next!=null){
+                curr.next=future_next;
+                future_next.prev=curr;
             }
+            curr=curr.next;
         }
         return head;
-       
     }
 }
