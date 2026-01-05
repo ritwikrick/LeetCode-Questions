@@ -10,11 +10,9 @@
  */
 class Solution {
     public ListNode rotateRight(ListNode head, int k) {
-        if (head == null || head.next == null || k == 0) {
-            return head;
-        }
-        int len=1;
+        if(head==null || head.next==null || k==0) return head;
         ListNode tail=head;
+        int len=1;
         while(tail.next!=null){
             len++;
             tail=tail.next;
@@ -22,14 +20,15 @@ class Solution {
         if(k%len==0) return head;
         k=k%len;
         tail.next=head;
-        ListNode temp=head;
         int c=1;
-        while(c!= (len-k)){
+        ListNode curr=head;
+        while(c<(len-k)){
             c++;
-            temp=temp.next;
+            curr=curr.next;
         }
-        head=temp.next;
-        temp.next=null;
+        head=curr.next;
+        curr.next=null;
+
         return head;
     }
 }
