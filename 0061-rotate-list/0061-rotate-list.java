@@ -22,7 +22,7 @@ class Solution {
         tail.next=head;
         int c=1;
         ListNode curr=head;
-        while(c<(len-k)){
+        while(c!=(len-k)){
             c++;
             curr=curr.next;
         }
