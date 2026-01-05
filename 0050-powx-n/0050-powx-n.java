@@ -1,13 +1,13 @@
 class Solution {
     public double myPow(double x, int n) {
-        long N=n;
-        if(N<0){
+        // long N=n;
+        if(n<0){
             x=1/x;
-            N=-N;
+            n=-n;
         }
-        return poww(x,N);
+        return poww(x,n);
     }
-    public double poww(double x,long n){
+    public double poww(double x,int n){
         if(n==0) return 1;
         // if(n%2==0){
         //     return poww(x,n/2)*poww(x,n/2);
