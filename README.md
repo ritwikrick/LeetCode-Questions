@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1763-longest-nice-substring](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1763-longest-nice-substring) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1763-longest-nice-substring](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1763-longest-nice-substring) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1763-longest-nice-substring](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1763-longest-nice-substring) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
+| [1763-longest-nice-substring](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1763-longest-nice-substring) |
 | [2478-longest-nice-subarray](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2478-longest-nice-subarray) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -559,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0940-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1763-longest-nice-substring](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1763-longest-nice-substring) |
 | [2478-longest-nice-subarray](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2478-longest-nice-subarray) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
