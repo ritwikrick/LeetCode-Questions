@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1631-path-with-minimum-effort](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2048-build-array-from-permutation) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1631-path-with-minimum-effort](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0945-snakes-and-ladders](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0945-snakes-and-ladders) |
+| [1631-path-with-minimum-effort](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [2965-find-missing-and-repeated-values](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1631-path-with-minimum-effort](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -521,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0945-snakes-and-ladders) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1631-path-with-minimum-effort](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Union Find
@@ -529,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1631-path-with-minimum-effort](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
 ## Stack
 |  |
 | ------- |
@@ -590,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1631-path-with-minimum-effort](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
