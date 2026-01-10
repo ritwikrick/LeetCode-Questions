@@ -37,14 +37,14 @@ class Solution {
         int[] dist = new int[n];
         Arrays.fill(dist, (int) 1e9);
         dist[src] = 0;
-
+//------------------------*************-----------------------------------------
         while (!q.isEmpty()) {
             Tuple it = q.poll();
             int stops = it.first;
             int node = it.second;
             int cost = it.third;
 
-            if (stops > K) continue;
+            if (stops > K) break;
 
             for (Pair iter : adj.get(node)) {
                 int adjNode = iter.first;
