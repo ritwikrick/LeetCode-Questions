@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+| [0072-edit-distance](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
