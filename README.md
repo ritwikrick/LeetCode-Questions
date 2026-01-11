@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0647-palindromic-substrings) |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
