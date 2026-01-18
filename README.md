@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0322-coin-change) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0131-palindrome-partitioning) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Design
 |  |
