@@ -18,7 +18,7 @@ class Solution {
             while(count==0){
                 if(right-left+1<minlen){
                     minlen=right-left+1;
-                    String sb=s.substring(left,minlen+left);
+                    String sb=s.substring(left,right+1);
                     ans=new StringBuilder(sb);
                 }
                 char l=s.charAt(left);
