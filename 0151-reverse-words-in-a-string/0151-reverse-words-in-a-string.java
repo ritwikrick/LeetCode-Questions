@@ -16,9 +16,10 @@ class Solution {
                 
             }
         }
-        if(sb.length()>0){
-            ans.append(sb.reverse());
-        }
+        // if(sb.length()>0){
+        //     ans.append(sb.reverse());
+        // }
+        ans.append(sb.reverse());
         return ans.toString().trim();
     }
 }
