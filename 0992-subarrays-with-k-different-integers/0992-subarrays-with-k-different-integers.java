@@ -13,7 +13,7 @@ class Solution {
                 if(map.get(nums[left])==0) map.remove(nums[left]);
                 left++;
             }
-            count+=right-left+1;
+            if(map.size()<=k) count+=right-left+1;
         }
         return count;
     }
