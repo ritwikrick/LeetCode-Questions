@@ -1,29 +1,25 @@
 class Solution {
     public int countSubstrings(String s) {
-        int n=s.length();
         int c=0;
-        for(int i=0;i<n;i++){
-            String check="";
-           for(int j=i;j<n;j++){
-                char ch=s.charAt(j);
-                check+=ch;
-                if(Pale(check)){
+        for(int i=0;i<s.length();i++){
+            for(int j=i;j<s.length();j++){
+                String subs=s.substring(i,j+1);
+                if(pal(subs)){
                     c++;
                 }
-           }
-            
+            }
         }
         return c;
     }
-    public static boolean Pale(String ss){
-        char temp;
-        int i=0,j=ss.length()-1;
-        while(i<j){
-            if(ss.charAt(i)!=ss.charAt(j)){
+    public boolean pal(String s){
+        int left=0,right=s.length()-1;
+        while(left<right){
+            if(s.charAt(left)==s.charAt(right)){
+                left++;
+                right--;
+            }else{
                 return false;
             }
-            i++;
-            j--;
         }
         return true;
     }
