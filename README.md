@@ -520,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0945-snakes-and-ladders](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0945-snakes-and-ladders) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0131-palindrome-partitioning) |
+| [0797-all-paths-from-source-to-target](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Design
 |  |
@@ -786,4 +789,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0148-sort-list) |
+## Graph Theory
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
