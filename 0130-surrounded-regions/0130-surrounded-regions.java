@@ -31,7 +31,7 @@ class Solution {
             int nr=r+delrow[i];
             int nc=c+delcol[i];
             if(nr>=0 && nr<n && nc>=0 && nc<m && !vis[nr][nc] && board[nr][nc]=='O'){
-                board[nr][nc]='#';
+                
                 dfs(nr,nc,vis,board);
             }
         }
