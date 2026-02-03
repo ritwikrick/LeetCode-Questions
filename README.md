@@ -522,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -797,10 +799,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
