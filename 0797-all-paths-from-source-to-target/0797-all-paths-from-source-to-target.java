@@ -3,20 +3,20 @@ class Solution {
         List<List<Integer>> ans=new ArrayList<>();
         List<Integer> path=new ArrayList<>();
         path.add(0);
-        dfs(ans,path,0,graph);
+        dfs(ans,path,graph,0);
         return ans;
     }
-    public void dfs(List<List<Integer>> ans,List<Integer> path, int node, int[][] graph){
+    public void dfs(List<List<Integer>> ans,List<Integer> path,int[][] graph, int curr ){
         int target=graph.length-1;
-        //node=index
-        if(node==target){
+        if(curr==target){
             ans.add(new ArrayList<>(path));
             return;
         }
-        for(int i=0;i<graph[node].length;i++){
-            int neibh=graph[node][i];
+        for(int i=0;i<graph[curr].length;i++){
+            int neibh=graph[curr][i];
             path.add(neibh);
-            dfs(ans,path,neibh,graph);
+            dfs(ans,path,graph,neibh);
+            //backtrack
             path.remove(path.size()-1);
         }
     }
