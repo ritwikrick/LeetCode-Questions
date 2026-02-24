@@ -15,21 +15,38 @@ class Solution {
         //     }
         // }
         // return maxavg;
+        // double sum=0;
+        // //Find sum upto first window
+        // for(int i=0;i<k;i++){
+        //     sum+=nums[i];
+        // }
+        // double maxsum=sum;
+        // int left=0;
+        // for(int right=k;right<nums.length;right++){
+        //     sum=sum-nums[left];
+        //     left++;
+        //     sum=sum+nums[right];
+        //     maxsum=Math.max(maxsum,sum);
+        // }
+        // return maxsum/k;
+        int n=nums.length;
         double sum=0;
-        //Find sum upto first window
         for(int i=0;i<k;i++){
             sum+=nums[i];
         }
-        double maxsum=sum;
-        int left=0;
-        for(int right=k;right<nums.length;right++){
-            sum=sum-nums[left];
-            left++;
-            sum=sum+nums[right];
-            maxsum=Math.max(maxsum,sum);
-        }
-        return maxsum/k;
+        double maxf=sum;
+        int l=0;
+        for(int r=k;r<n;r++){
+            sum-=nums[l];
+            l++;
+            sum+=nums[r];
+            if(maxf<sum){
+                maxf=sum;
+            }
+            
 
+        }
+        return maxf/k;
 
     }
 }
