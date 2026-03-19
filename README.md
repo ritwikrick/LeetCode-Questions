@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
+| [0542-01-matrix](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0647-palindromic-substrings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0130-surrounded-regions) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0542-01-matrix](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0945-snakes-and-ladders](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0945-snakes-and-ladders) |
 | [1631-path-with-minimum-effort](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [2965-find-missing-and-repeated-values](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2965-find-missing-and-repeated-values) |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
