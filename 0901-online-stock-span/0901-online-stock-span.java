@@ -2,7 +2,7 @@ class StockSpanner {
 
     Stack<int[]> stack;
 
-    public StockSpanner() {
+    StockSpanner() {
         stack = new Stack<>();
     }
     
