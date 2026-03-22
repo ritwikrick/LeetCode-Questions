@@ -1,6 +1,5 @@
 class StockSpanner {
 
-    // Stack stores {price, span}
     Stack<int[]> stack;
 
     public StockSpanner() {
@@ -10,14 +9,23 @@ class StockSpanner {
     public int next(int price) {
         int span = 1;
 
-        // Pop while previous price <= current price
         while (!stack.isEmpty() && stack.peek()[0] <= price) {
             span += stack.pop()[1];
         }
 
-        // Push current price and its span
         stack.push(new int[]{price, span});
-
         return span;
+    }
+
+    // NEW METHOD → for array input
+    public int[] calculateSpan(int[] prices) {
+        int n = prices.length;
+        int[] result = new int[n];
+
+        for (int i = 0; i < n; i++) {
+            result[i] = next(prices[i]); // reuse same logic
+        }
+
+        return result;
     }
 }
