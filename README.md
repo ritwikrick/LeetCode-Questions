@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0131-palindrome-partitioning) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Backtracking
