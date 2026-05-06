@@ -17,10 +17,11 @@ class Solution {
         for(int r=0;r<nums.length;r++){
             if(nums[r]==1){
                 c++;
-                maxc=Math.max(maxc,c);
+                
             }else{
                 c=0;
             }
+            maxc=Math.max(maxc,c);
         }
         return maxc;
     }
