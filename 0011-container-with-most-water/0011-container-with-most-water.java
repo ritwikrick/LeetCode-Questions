@@ -17,22 +17,35 @@ class Solution {
         // }
         // return maxw;
 
+        // int maxw=Integer.MIN_VALUE;
+        // int left=0;
+        // int right=height.length-1;
+        // while(left<right){
+        //     int ht=Math.min(height[left],height[right]);
+        //     int water=ht*(right-left);
+        //     maxw=Math.max(water,maxw);
+        //     if(height[left]>height[right]){
+        //         right--;
+        //     }else{
+        //         left++;
+        //     }
+        // }
+        // return maxw;
         int maxw=Integer.MIN_VALUE;
         int left=0;
         int right=height.length-1;
         while(left<right){
             int ht=Math.min(height[left],height[right]);
-            int water=ht*(right-left);
+            int width=right-left;
+            int water=ht*width;
             maxw=Math.max(water,maxw);
-            if(height[left]>height[right]){
-                right--;
-            }else{
+            if(height[left]<height[right]){
                 left++;
+            }else{
+                right--;
             }
         }
         return maxw;
-
-
 
 
 
