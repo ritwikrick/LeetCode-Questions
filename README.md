@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0647-palindromic-substrings) |
+| [0746-min-cost-climbing-stairs](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1143-longest-common-subsequence) |
