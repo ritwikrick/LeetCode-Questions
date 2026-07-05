@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2478-longest-nice-subarray](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2478-longest-nice-subarray) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2965-find-missing-and-repeated-values) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3227-find-missing-and-repeated-values) |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1763-longest-nice-substring](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1763-longest-nice-substring) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2478-longest-nice-subarray](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2478-longest-nice-subarray) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
