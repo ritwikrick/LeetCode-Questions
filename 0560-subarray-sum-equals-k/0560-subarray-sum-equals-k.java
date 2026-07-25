@@ -14,18 +14,19 @@ class Solution {
         //     }
         // }
         // return c;
-        HashMap<Integer,Integer> map=new HashMap<>();
+        
+        //PREFIX SUM
+        HashMap <Integer,Integer> map=new HashMap<>();
         map.put(0,1);
-        int psum=0;
-        int c=0;
+        int psum=0,count=0;
         for(int i=0;i<nums.length;i++){
             psum+=nums[i];
-            if(map.containsKey(psum-k)){
-                c=c+map.get(psum-k);
+            int target=psum-k;
+            if(map.containsKey(target)){
+                count+=map.get(target);
             }
             map.put(psum,map.getOrDefault(psum,0)+1);
         }
-        return c;
-        
+        return count;
     }
 }
