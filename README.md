@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0767-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1143-longest-common-subsequence](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1143-longest-common-subsequence) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0901-online-stock-span) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
