@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1544-make-the-string-great](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1544-make-the-string-great) |
 | [1763-longest-nice-substring](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1763-longest-nice-substring) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -652,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/ritwikrick/LeetCode-Questions/tree/master/1544-make-the-string-great) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ritwikrick/LeetCode-Questions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ritwikrick/LeetCode-Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
