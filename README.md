@@ -897,4 +897,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/ritwikrick/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
