@@ -1,30 +1,17 @@
-import java.util.*;
-
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-        if (strs == null || strs.length == 0) return new ArrayList<>();
-
-        HashMap<String, List<String>> map = new HashMap<>();
-
-        // Normal for-loop over input strings
-        for (int i = 0; i < strs.length; i++) {
-            char[] chars = strs[i].toCharArray();
-            Arrays.sort(chars);                   // Sort characters
-            String key = new String(chars);       // Convert back to string
-
-            if (!map.containsKey(key)) {
-                map.put(key, new ArrayList<String>());
+        HashMap<String, List<String>> map=new HashMap<>();
+        for(int i=0;i<strs.length;i++){
+            String s=strs[i];
+            char arr[]=s.toCharArray();
+            Arrays.sort(arr);
+            String key=new String(arr);//by this - String key = new String(arr);   we create a new string of array of characters 
+            if(!map.containsKey(key)){
+                map.put(key,new ArrayList<>());
             }
-            map.get(key).add(strs[i]);
+            map.get(key).add(s);
         }
-
-        // Collect results using normal for-loop
-        List<List<String>> result = new ArrayList<>();
-        ArrayList<String> keys = new ArrayList<>(map.keySet());
-        for (int i = 0; i < keys.size(); i++) {
-            result.add(map.get(keys.get(i)));
-        }
-
-        return result;
+        return new ArrayList<>(map.values());
+        
     }
 }
